@@ -42,7 +42,7 @@ const projectImageLinkDom = document.querySelector('.view_proj_img');
 const projectsArray = [
   {
     name: 'Dengue Monitoring System',
-    description: 'A GIS monitoring system with forecasting of dengue cases.',
+    description: 'As the Lead Programmer for the Dengue Monitoring System (DMS) project in 2023, I spearheaded the development of a cutting-edge GIS-based forecasting solution. Tasked with integrating Geographic Information System (GIS) technology and advanced forecasting models, I successfully designed a robust system architecture that facilitates real-time analysis of dengue-related data for the Local Department of Health in our province.',
     imageLink: 'images/projects/project1.png',
     technologies: ['html', 'css', 'javascript', 'django'],
     role: 'Lead Programmer',
@@ -53,7 +53,7 @@ const projectsArray = [
   },
   {
     name: 'Diabetes Prediction',
-    description: 'A smart information system for diabetes patients with prediction based on diagnostic tests.',
+    description: 'As the sole Full Stack Developer in 2023, I led a freelance project to create a Smart Information System for diabetes patients. This individual effort involved designing a user-friendly interface and implementing both front-end and back-end functionalities, showcasing my proficiency in full-stack development. The comprehensive platform enables users to input and monitor diagnostic test results, utilizing predictive analytics to provide personalized insights, contributing significantly to the advancement of healthcare technology.',
     imageLink: 'images/projects/project2.png',
     technologies: ['html', 'css', 'javascript', 'django'],
     role: 'Full Stack',
@@ -64,7 +64,7 @@ const projectsArray = [
   },
   {
     name: 'Crime Rate Mapping',
-    description: 'A GIS monitoring system for crimes.',
+    description: 'In 2023, I undertook a freelance project as a Full Stack Developer to design and implement a Crime Rate Mapping system. This GIS monitoring platform provides a dynamic interface for tracking and analyzing crime data, enabling users to visualize crime hotspots and trends in real-time. ',
     imageLink: 'images/projects/project3.png',
     technologies: ['html', 'css', 'javascript', 'django'],
     role: 'Full Stack',
